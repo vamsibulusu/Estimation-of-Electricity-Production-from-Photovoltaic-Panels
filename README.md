@@ -4,6 +4,8 @@ This repository contains the code snippets associated with the project "Estimati
 The data for the above research can be downloaded from http://photovolta2.univ-nantes.fr/
 The data files need to be downloaded individually for every feature. They can be processed and combined using the processing.py python script.
 
+The estimation_of_PV_production.py file contains the code for the implementation of the paper under review titled "Estimation of Electricity Production from Photovoltaic Panels".
+
 The Pivotal_sampling.py file contains an implementation of pivotal sampling which changes the inclusion probabilities based on the charge of the device and the importance of the reading. 
 
 In case of any query in reference to the above code, kindly contact me at ee1600002059(at)iiti(dot)ac(dot)in
